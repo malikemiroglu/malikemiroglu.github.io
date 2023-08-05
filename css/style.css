@@ -2327,7 +2327,7 @@ body.loaded .overlay_effect:after{
 	.shane_tm_classic_hero .name_wrap h3{font-size: 50px;}
 }
 @media (max-width: 768px) {
-	.shane_tm_hero .content{padding-right: 0px;width: 100%;}
+	.shane_tm_hero .content{padding-right: 0px;width: 300px;}
 	.shane_tm_portfolio .portfolio_list ul{margin: 0px;}
 	.shane_tm_portfolio .portfolio_list ul li{padding: 0px;width: 100%;}
 	.portfolio_list ul{margin: 0px;}

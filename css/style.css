@@ -1763,7 +1763,21 @@ body.loaded .overlay_effect:after{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.portfolio_list ul li .list_inner .image:hover .main{transform: scale(1.1) rotate(3deg);}
+.portfolio_list ul li .list_inner .image:hover .main{
+	transform: scale(1.1) rotate(3deg);
+}
+.portfolio_list .image .shane_tm_button p {
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	background: rgba(0, 0, 0, 0.4);
+	border: none;
+	padding: 5px 20px;
+	color: #fff;
+	font-family: "Poppins";
+}
+
 .portfolio_list ul li .details{
 	width: 100%;
 	float: left;
